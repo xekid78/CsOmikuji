@@ -2,7 +2,7 @@
 おみくじ（.NET Core）
 
 ## 処理
-System.Random()メソッドを使用して1 ～ 6のランダムな数字を使って、おみくじの結果を出力します。
+Random()クラスを使用して1 ～ 6のランダムな数字を使って、おみくじの結果を出力します。
 
 ## コード
 ```
@@ -14,7 +14,7 @@ namespace omikuji
     {
         static void Main(string[] args)
         {
-            var rand = new System.Random();
+            var rand = new Random();
             var omikuji = rand.Next(1, 6);
 
             if (omikuji == 1)
