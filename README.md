@@ -52,7 +52,7 @@ namespace omikuji
 }
 ```
 
-## 出力結果  
+## 出力例  
 ```
 中吉
 
