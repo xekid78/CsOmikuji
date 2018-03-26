@@ -6,7 +6,7 @@ namespace omikuji
     {
         static void Main(string[] args)
         {
-            var rand = new System.Random();
+            var rand = new Random();
             var omikuji = rand.Next(1, 6);
 
             if (omikuji == 1)
