@@ -1,0 +1,11 @@
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\omikuji\omikuji\bin\Debug\netcoreapp2.0\omikuji.deps.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\omikuji\omikuji\bin\Debug\netcoreapp2.0\omikuji.runtimeconfig.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\omikuji\omikuji\bin\Debug\netcoreapp2.0\omikuji.runtimeconfig.dev.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\omikuji\omikuji\bin\Debug\netcoreapp2.0\omikuji.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\omikuji\omikuji\bin\Debug\netcoreapp2.0\omikuji.pdb
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\omikuji\omikuji\obj\Debug\netcoreapp2.0\omikuji.csprojResolveAssemblyReference.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\omikuji\omikuji\obj\Debug\netcoreapp2.0\omikuji.csproj.CoreCompileInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\omikuji\omikuji\obj\Debug\netcoreapp2.0\omikuji.AssemblyInfoInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\omikuji\omikuji\obj\Debug\netcoreapp2.0\omikuji.AssemblyInfo.cs
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\omikuji\omikuji\obj\Debug\netcoreapp2.0\omikuji.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\omikuji\omikuji\obj\Debug\netcoreapp2.0\omikuji.pdb
