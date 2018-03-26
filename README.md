@@ -1,0 +1,2 @@
+# CsOmikuji
+おみくじ（.NET Core）
