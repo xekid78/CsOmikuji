@@ -8,9 +8,9 @@ Random()クラスを使用して1 ～ 6のランダムな数字を使って、�
 ```
 using System;
 
-namespace omikuji
+namespace Omikuji
 {
-    class Program
+    class Omikuji
     {
         static void Main(string[] args)
         {
@@ -41,12 +41,6 @@ namespace omikuji
             {
                 Console.WriteLine("大凶");
             }
-
-            // 実行結果確認のための処理 ここから
-            Console.WriteLine();
-            Console.WriteLine("何かキーを押してください");
-            Console.ReadKey();
-            // ここまで
         }
     }
 }
@@ -55,8 +49,6 @@ namespace omikuji
 ## 出力例  
 ```
 中吉
-
-何かキーを押してください
 ```
   
 ## 開発環境
