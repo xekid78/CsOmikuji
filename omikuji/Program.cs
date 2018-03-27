@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace omikuji
+namespace Omikuji
 {
-    class Program
+    class Omikuji
     {
         static void Main(string[] args)
         {
@@ -33,12 +33,6 @@ namespace omikuji
             {
                 Console.WriteLine("大凶");
             }
-
-            // 実行結果確認のための処理 ここから
-            Console.WriteLine();
-            Console.WriteLine("何かキーを押してください");
-            Console.ReadKey();
-            // ここまで
         }
     }
 }
